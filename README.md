@@ -1,10 +1,13 @@
-### Hi there 👋
+## Welcome to SrpCD's Github.
+- 👋 Hello, I'm SrpCD Gaming.
+- 💻 Average coder who likes to experiment a lot.
+- ⚒️ I code all alone and I ask for help.
+- 📫 You can reach me out on discord - @s_rpcdmc
+- 😄 My pronouns are: he/him
 
 <!--
 **srpcdgaming12/srpcdgaming12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
