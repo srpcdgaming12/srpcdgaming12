@@ -2,7 +2,7 @@
 - 👋 Hello, I'm SrpCD Gaming.
 - 💻 Average coder who likes to experiment a lot.
 - ⚒️ I code all alone and I ask for help.
-- 📫 You can reach me out on discord - @s_rpcdmc
+- 📫 You can reach me out on discord - @srpcd
 - 😄 My pronouns are: he/him
 
 <!--
